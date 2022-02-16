@@ -1,5 +1,3 @@
-# denalda-bali-java-data_structure-projects
-
 # Binary Search Tree - Data Stuctures 
 
 ![image](https://user-images.githubusercontent.com/86987951/154163454-a5b517aa-c32b-435a-af98-7023d83ee3b1.png)
